@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Entrega\Entrega\obj\Debug\Entrega.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Entrega\Entrega\obj\Debug\Entrega.Properties.Resources.resources
+C:\Users\HP\source\repos\Entrega\Entrega\obj\Debug\Entrega.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Entrega\Entrega\obj\Debug\Entrega.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Entrega\Entrega\bin\Debug\Entrega.exe.config
+C:\Users\HP\source\repos\Entrega\Entrega\bin\Debug\Entrega.exe
+C:\Users\HP\source\repos\Entrega\Entrega\bin\Debug\Entrega.pdb
+C:\Users\HP\source\repos\Entrega\Entrega\obj\Debug\Entrega.exe
+C:\Users\HP\source\repos\Entrega\Entrega\obj\Debug\Entrega.pdb
+C:\Users\HP\source\repos\Entrega\Entrega\obj\Debug\Entrega.exe.config
+C:\Users\HP\source\repos\Entrega\Entrega\obj\Debug\Entrega.form_interfaz.resources
+C:\Users\HP\source\repos\Entrega\Entrega\obj\Debug\Entrega.form_regisro.resources
+C:\Users\HP\source\repos\Entrega\Entrega\obj\Debug\Entrega.Form4.resources
